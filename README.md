@@ -10,7 +10,9 @@ Important note: Next to the dashed lines, the number 1 is written to indicate th
  <img width="975" height="363" alt="image" src="https://github.com/user-attachments/assets/e95e9342-d8d8-431a-977e-3cdc6f62121d" />
 
 Important note: No IC should be placed on the section labeled "Non," because these pins are not used. Please note that using these pins may apply unwanted voltages to your ICs.
-<img width="476" height="203" alt="image" src="https://github.com/user-attachments/assets/bc6bf497-90cf-4a73-932b-80a555f322f7" />  <img width="378" height="238" alt="image" src="https://github.com/user-attachments/assets/ab7e4489-d85f-41d3-a3dc-28e4a53f19e8" />
+
+<img width="476" height="203" alt="image" src="https://github.com/user-attachments/assets/bc6bf497-90cf-4a73-932b-80a555f322f7" />  
+<img width="378" height="238" alt="image" src="https://github.com/user-attachments/assets/ab7e4489-d85f-41d3-a3dc-28e4a53f19e8" />
 
 
 The middle section is for testing quad op-amp ICs. Some quad ICs are listed on the module.
